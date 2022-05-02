@@ -15,3 +15,32 @@ header{
     margin-bottom: -140px;
     margin-left: 20px;
 }
+
+main{
+    margin: 20px;
+}
+
+.titolo{
+    font-size: 55px;
+    line-height: 58px;
+    margin: 0;
+}
+
+.autore{
+    color: #9b9b9b;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none; 
+	font-weight: bold;
+	color: #4ea0ff;
+}
+
+.data{
+    color: #9b9b9b;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
