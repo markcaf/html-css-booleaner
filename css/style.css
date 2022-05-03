@@ -49,6 +49,10 @@ a{
     font-size: 14px;
 }
 
+.evidenziato{
+    background-color: #ffff00;
+}
+
 ul{
     padding-inline-start: 0;
     margin-left: 15px;
@@ -80,4 +84,33 @@ table{
 
 .riga-bianca{
     background-color: white;
+}
+
+footer{
+    margin: 30px;
+}
+
+.correlati{
+    color: #666565;
+    margin-top: 45px;
+}
+
+.item-1{
+    padding: 1px 20px 80px 20px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    width: 250px;
+    height: 150px;
+}
+
+.item-2{
+    padding: 1px 20px 80px 20px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    width: 250px;
+    height: 150px;
 }
