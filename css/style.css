@@ -48,3 +48,36 @@ a{
 .didascalia{
     font-size: 14px;
 }
+
+ul{
+    padding-inline-start: 0;
+    margin-left: 15px;
+}
+
+table{
+    text-align: left;
+    width: 100%;
+    border-spacing: 0;
+    background-color: #b1e5f2;
+}
+
+#prima-colonna{
+    width: 30%;
+}
+
+#seconda-colonna{
+    width: 30%;
+}
+
+#terza-colonna{
+    width: 60%;
+}
+
+.titolo-tabella{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.riga-bianca{
+    background-color: white;
+}
